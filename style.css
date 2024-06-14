@@ -1,0 +1,167 @@
+/* Inport Google Font Kanit */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;500&display=swap');
+/* Inport Icon Bootstrap Icons */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+#post1{
+  background-image: url(https://wallpaperaccess.com/full/5355740.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+footer{
+  color: white;
+  background: #0737D9;
+  padding: 15px;
+  font-family: 'kanit', sans-serif;
+  margin-top: 10%;
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+#div1{
+  background-color: white;
+  margin-top: 20px;
+  padding: 2% 4%;
+  box-shadow: 0 8px 8px rgba(0,0,0,.5);
+  margin-bottom: 20px;
+  transition: all 0.5s ease-in-out;
+}
+#div1:hover{
+  transform: translatey(-10px);
+  transition: all 0.5s ease-in-out;
+}
+#div2 {
+  background-color: white;
+  margin-top: 20px;
+  padding: 4% 4%;
+  box-shadow: 0 0 4px 4px rgba(0, 0, 0, .10);
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+#div3{
+  padding: 5px;
+  border: 2px solid red;
+  box-shadow: 0 0 4px 4px rgba(0, 0, 0, .10);
+margin-top: 10px;
+}
+.col-4:hover{
+  transform: translatey(-10px);
+  transition: all 0.5s ease-in-out;
+}
+h2{
+  font-family: 'kanit', sans-serif;
+  font-size: 20px ;
+  font-weight: 500;
+}
+h3, h5, h6{
+  font-family: 'kanit', sans-serif;
+  font-weight: 500;
+}
+p, b{
+  font-family: 'kanit', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+pp {
+  font-family: 'kanit', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+ps{
+  font-family: 'kanit', sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+  color: red;
+}
+#bu {
+  font-family: 'kanit', sans-serif;
+  background-color: #FFB600;
+  border: none;
+  margin-bottom: 15px;
+  width: 80%;
+  color: white;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, .5);
+}
+#bu:hover{
+  box-shadow: none;
+}
+#bu1 {
+  font-family: 'kanit', sans-serif;
+  background-color: green;
+  border: none;
+  margin-bottom: 15px;
+  width: 80%;
+  color: white;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, .5);
+}
+#bu1:hover{
+  box-shadow: none;
+}
+#bu2{
+  float:right;
+  position: relative;
+  margin-top: 30px;
+  right: 5%;
+  padding: 5px 5px 5px;
+  font-size: 25px;
+  background-color: midnightblue;
+  font-family: 'kanit', sans-serif;
+  font-weight: 500;
+  border: 1px solid white;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, .50);
+}
+#bu2:hover{
+  background: red;
+}
+/* Color*/
+red{ color: red;
+}
+midnightblue{
+  color: midnightblue ;
+}
+label{
+  font-family: 'kanit', sans-serif;
+  font-weight: 300;
+}
+.offcanvas-body a{
+  color: white;
+}
+.col-4 a{
+  text-decoration:none;
+  color: black;
+}
+.offcanvas-body a{
+  font-family: 'kanit', sans-serif;
+  font-weight: 500;
+  text-decoration:none;
+  
+}
+.offcanvas-body a:hover{
+ color: red;
+}
+.carousel-item{
+ bottom: 10px;
+ box-shadow: 0 0 4px 4px rgba(0, 0, 0, .10);
+}
+button, #clear{
+ background: red;
+ color: white;
+ border: none;
+ padding: 10px;
+ font-family: 'kanit', sans-serif;
+ font-weight: 300;
+}
+div #ipserver:hover{
+  color: midnightblue;
+}
+center img{
+    position: relative;
+    left: 3%;
+    
+}

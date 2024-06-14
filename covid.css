@@ -1,0 +1,40 @@
+#covid{
+  background-color: lawngreen;
+  height: 120px;
+  padding: 10px;
+}
+#covid1{
+  background-color: indianred;
+  height: 120px;
+  padding: 10px;
+}
+#covid2{
+  background-color: green;
+  height: 120px;
+  padding: 10px;
+}
+#covid3{
+  height: 120px;
+  padding: 10px;
+  background-color: orangered;
+}
+#covid4{
+  height: 120px;
+  padding: 10px;
+  background-color: lightslategrey;
+}
+
+
+.col-6{
+  color: white;
+  border: 4px solid white;
+  border-radius: 20px;
+}
+
+.col-6 p{
+  font-size: 30px;
+  text-align: right;
+}
+pb{
+  font-size: 20px;
+}
